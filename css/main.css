@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.todo-input {
+  text-decoration: line-through;
+}
